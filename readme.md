@@ -14,7 +14,7 @@ nodejs
 ## 1、安装
 在该目录内打开命令行输入npm install
 
-国内最好在后面加上--registry=https://registry.npm.taobao.org来使用淘宝的npm镜像站，速度会快很多。
+国内最好在后面加上--registry=https://registry.npm.taobao.org 来使用淘宝的npm镜像站，速度会快很多。
 
 ## 2、添加账号
 自己看着IDS.js文件里面的就应该会搞了吧
