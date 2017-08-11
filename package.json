@@ -1,0 +1,14 @@
+{
+  "name": "bili_huiban_helper",
+  "version": "1.0.0",
+  "description": "b站绘板助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
